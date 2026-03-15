@@ -1,4 +1,4 @@
-#3 menggunakan input dari pengguna
+#3 menggunakan input dari pengguna (LANJUTAN DARI CONDITIONAL STATEMENTS) 
 
 
 x =int(input("Masukkan Nilai x: "))  
@@ -41,6 +41,7 @@ print(f"x adalah bilangan {status}")
 
 #TRANSFER STATEMENTS MEMPUNYAI FOLDER SENDIRI, TIDAK BISA RUNNING JIKA BERADA DENGAN KODE LAIN##
 
+#ITERATIVE STATEMENTS 
 # Menggunakan for (jumlah sudah pasti 6 kali)
 for i in range(6):
     print("Perulangan ke-", i)
